@@ -9,9 +9,8 @@
  </tr><table/>
 <h4 align=center>Available for Windows, iOS, and Android<br> <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://github.com/dnbyukusenge/Aviator-Predictor-Pro/blob/main/aviatorPredictorPro.png" width="200" />
+ 
 </div><br><br>
 
 Welcome to the **Aviator Predictor Pro** We are thrilled to announce the official release of Aviator Predictor Pro, the latest version of our Aviator game predictor app, packed with enhanced features and improvements. This version aims to provide a more accurate and seamless experience for predicting Aviator game outcomes.
